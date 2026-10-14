@@ -39,8 +39,6 @@
 
 ### Comunidad MeshArg
 
-Redes comunitarias, abiertas y sin internet.
-
 [Telegram de MeshArg](https://t.me/meshtastic_argentina) ·
 [FAQ completa](../README.md) ·
 [Problemas frecuentes](../Recursos/problemas_frecuentes.md)
