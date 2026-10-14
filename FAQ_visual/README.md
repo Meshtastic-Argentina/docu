@@ -36,5 +36,15 @@
 
 ![Cierre](<12 Cierre@2x.png>)
 ---
-## Comunidad MeshArg
-- [Volver a la página principal](../README.md)
+
+### Comunidad MeshArg
+
+Redes comunitarias, abiertas y sin internet.
+
+[Telegram de MeshArg](https://t.me/meshtastic_argentina) ·
+[FAQ completa](../README.md) ·
+[Problemas frecuentes](../Recursos/problemas_frecuentes.md)
+
+[← Volver al inicio](../README.md)
+
+<sub>MeshArg</sub>
