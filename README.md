@@ -1,4 +1,4 @@
-# MeshArg
+# Comunidad Meshtastic Argentina
 
 **Somos una comunidad técnica y social que construye soberanía tecnológica en el espectro radioeléctrico - mesharg.com.ar - Meshtastic - Meshcore - reticulum**
 
@@ -136,9 +136,10 @@ Se arman 100% por radio, con un nodo que solo escucha. Para aparecer: compartí 
 
 ---
 
-# Recursos adicionales
+# RECURSOS ADICIONALES
 
 - [Problemas Frecuentes](./Recursos/problemas_frecuentes.md)
+- [FAQ Visual](./FAQ_visual/README.md)
 
 ---
 
