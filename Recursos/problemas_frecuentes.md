@@ -1,4 +1,4 @@
-# FAQ de problemas frecuentes-
+# FAQ de problemas frecuentes
 ## 1. Mi nodo no aparece
 
 Puede no aparecer en la aplicación, en la red RF o en un mapa de la comunidad. Primero distinguí dónde falta.

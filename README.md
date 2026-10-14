@@ -136,9 +136,9 @@ Se arman 100% por radio, con un nodo que solo escucha. Para aparecer: compartí 
 
 ---
 
-# Problemas frecuentes
+# Recursos adicionales
 
-Ver [Problemas Frecuentes](./problemas_frecuentes.md)
+- [Problemas Frecuentes](./Recursos/problemas_frecuentes.md)
 
 ---
 
