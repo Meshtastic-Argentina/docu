@@ -218,6 +218,10 @@ Como último recurso, hacé un borrado completo, reinstalá el firmware y config
 
 ## 11. Qué información pasar cuando pedís ayuda
 
+#### Si no pudiste solucionar tu problema podes consultar en el Telegram de la comunidad:  https://t.me/meshtastic_argentina
+
+#### No te olvides de adjuntar la siguiente información:
+
 Equipo: (ej. Heltec V3/V4, T-Beam, T114, RAK)
 
 Antena: (la que vino / otra, ¿cuál?)
