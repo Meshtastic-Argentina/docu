@@ -15,7 +15,7 @@
 - [8. El GPS o la ubicación no aparecen](#8-el-gps-o-la-ubicación-no-aparecen)
 - [9. El nodo se reinicia, se desconecta o pierde autonomía](#9-el-nodo-se-reinicia-se-desconecta-o-pierde-autonomía)
 - [10. La configuración quedó confusa o nada coincide](#10-la-configuración-quedó-confusa-o-nada-coincide)
-- [Qué información pasar cuando pedís ayuda](#qué-información-pasar-cuando-pedís-ayuda)
+- [11. Qué información pasar cuando pedís ayuda](#11-qué-información-pasar-cuando-pedís-ayuda)
 
 ## 1. Mi nodo no aparece
 
