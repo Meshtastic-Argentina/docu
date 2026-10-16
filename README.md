@@ -143,6 +143,14 @@ Seguí este checklist rápido para empezar:
 
 ![Checklist_nodo_mesharg](checklist_nodo_mesharg_negro.png)
 
+
+---
+
+# RECURSOS ADICIONALES
+
+- [Problemas Frecuentes](./Recursos/problemas_frecuentes.md)
+- [FAQ Visual](./FAQ_visual/README.md)
+
 ---
 
 # ¡SUMATE A LA MALLA!
@@ -151,16 +159,9 @@ Seguí este checklist rápido para empezar:
 Dudas, presets y novedades de cada zona en el grupo de Telegram de MeshArg. Hay un hilo para cada provincia:
 https://t.me/meshtastic_argentina
 
-Mapa de nodos del AMBA: https://mapa-mesh.hopto.org y https://meshseer.nemexix.com
+### Mapa de nodos del AMBA: https://mapa-mesh.hopto.org y https://meshseer.nemexix.com
 
 Se arman 100% por radio, con un nodo que solo escucha. Para aparecer: compartí tu posición, usá MediumFast y que tu nodo llegue por radio, directo o a través de otros nodos.
-
----
-
-# RECURSOS ADICIONALES
-
-- [Problemas Frecuentes](./Recursos/problemas_frecuentes.md)
-- [FAQ Visual](./FAQ_visual/README.md)
 
 ---
 
