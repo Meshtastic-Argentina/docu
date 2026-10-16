@@ -1,16 +1,35 @@
 # FAQ de problemas frecuentes
+
+## Índice
+
+- [1. Mi nodo no aparece](#1-mi-nodo-no-aparece)
+  - [Si no aparece en la aplicación](#si-no-aparece-en-la-aplicación)
+  - [Si no aparece en la red](#si-no-aparece-en-la-red)
+  - [Si no aparece en un mapa comunitario](#si-no-aparece-en-un-mapa-comunitario)
+- [2. Mi mensaje no llega](#2-mi-mensaje-no-llega)
+- [3. Funcionaba y dejó de funcionar](#3-funcionaba-y-dejó-de-funcionar)
+- [4. No puedo conectar el nodo al celular](#4-no-puedo-conectar-el-nodo-al-celular)
+- [5. ¿El problema es la antena?](#5-el-problema-es-la-antena)
+- [6. El nodo aparece, pero no transmite o no retransmite](#6-el-nodo-aparece-pero-no-transmite-o-no-retransmite)
+- [7. ¿Qué lugar ocupa MQTT?](#7-qué-lugar-ocupa-mqtt)
+- [8. El GPS o la ubicación no aparecen](#8-el-gps-o-la-ubicación-no-aparecen)
+- [9. El nodo se reinicia, se desconecta o pierde autonomía](#9-el-nodo-se-reinicia-se-desconecta-o-pierde-autonomía)
+- [10. La configuración quedó confusa o nada coincide](#10-la-configuración-quedó-confusa-o-nada-coincide)
+- [Qué información pasar cuando pedís ayuda](#qué-información-pasar-cuando-pedís-ayuda)
+
 ## 1. Mi nodo no aparece
 
 Puede no aparecer en la aplicación, en la red RF o en un mapa de la comunidad. Primero distinguí dónde falta.
 
 ### Si no aparece en la aplicación
 
-- Verificá que el celular esté conectado al nodo correcto.
+- Verificá que el celular esté conectado al nodo.
+- Desactivá y reactivá el Bluetooth.
 - Probá Bluetooth, Wi‑Fi, USB o la interfaz web.
 - Reiniciá el nodo y la aplicación.
 - Revisá si el nodo quedó en otro modo de conexión.
 - Desactivá temporalmente el ahorro de energía.
-- Desactivá y reactivá el Bluetooth.
+
 
 ### Si no aparece en la red
 
@@ -157,7 +176,7 @@ Verificá:
 
 La ubicación y otros datos propios del nodo pueden tardar bastante en transmitirse y aparecer, incluso horas según la cobertura y el tráfico de la red.
 
-Una ubicación que no aparece en un mapa no prueba que el GPS esté roto: puede tratarse de permisos del teléfono, rango de difusión, filtros, demoras o de que el nodo no publica por MQTT.
+Una ubicación que no aparece en un mapa no prueba que el GPS esté roto: puede tratarse de permisos del teléfono, rango de difusión, filtros, demoras o que el nodo no publica por MQTT.
 
 ---
 
@@ -197,23 +216,29 @@ Como último recurso, hacé un borrado completo, reinstalá el firmware y config
 
 ---
 
-## Qué información pasar cuando pedís ayuda
+## 11. Qué información pasar cuando pedís ayuda
 
-Indicá:
+Equipo: (ej. Heltec V3/V4, T-Beam, T114, RAK)
 
-- Modelo exacto.
-- Región y frecuencia.
-- Canal y PSK.
-- Rol.
-- Tipo de antena.
-- Ubicación y altura.
-- Forma de conexión al nodo.
-- Qué esperabas que ocurriera.
-- Qué ocurre realmente.
-- Desde qué zona hiciste la prueba.
-- Cuánto tiempo esperaste.
-- Qué pruebas ya realizaste.
+Antena: (la que vino / otra, ¿cuál?)
+
+Firmware: (versión)
+App y conexión: (Android/iOS/web — BT/USB/WiFi)
+
+Zona: (barrio o localidad, no hace falta más)
+
+Configuración: región / preset / rol
+
+Qué pasa:
+
+Qué probaste:
+
+Si podés, sumá capturas o logs.
 
 Una buena descripción sería:
 
-> “Tengo un nodo Heltec v3 configurado en MediumFast, MQTT apagado y antena externa. Desde mi casa no veo nodos ni recibo mensajes.”
+> “Tengo un nodo Heltec v3 configurado en MediumFast con la antena de stock, conectado por Bluetooth a mi teléfono. Desde mi casa no veo nodos ni recibo mensajes.”
+
+### No hace falta saber nada técnico para preguntar: completá lo que sepas y listo. Cuanto más contexto, más fácil que alguien te dé una mano
+---
+
