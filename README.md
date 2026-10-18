@@ -1,9 +1,23 @@
-# MeshArg
+# Comunidad Meshtastic Argentina
 
-**Somos una comunidad técnica y social que construye soberanía tecnológica en el espectro radioeléctrico - mesharg.com.ar - Meshtastic - Meshcore - reticulum**
+**Somos una comunidad técnica y social que construye soberanía tecnológica en el espectro radioeléctrico - mesharg.com.ar - Meshtastic - Meshcore - Reticulum**
 
 ---
+## Índice
 
+- [1. ¿Qué es Meshtastic y qué necesito para arrancar?](#1-qué-es-meshtastic-y-qué-necesito-para-arrancar)
+- [2. ¿Es legal? ¿Necesito licencia?](#2-es-legal-necesito-licencia)
+- [3. ¿Qué placa compro?](#3-qué-placa-compro)
+- [4. ¿Hay algo que nunca tengo que hacer?](#4-hay-algo-que-nunca-tengo-que-hacer)
+- [5. ¿Cómo la configuro en Argentina?](#5-cómo-la-configuro-en-argentina)
+- [6. ¿Qué rol le pongo a mi nodo?](#6-qué-rol-le-pongo-a-mi-nodo)
+- [7. ¿Hasta dónde llega y cómo mejoro la cobertura?](#7-hasta-dónde-llega-y-cómo-mejoro-la-cobertura)
+- [8. ¿Por qué nadie retransmite mis mensajes?](#8-por-qué-nadie-retransmite-mis-mensajes)
+- [9. ¿Es privado? ¿Quién puede leer mis mensajes?](#9-es-privado-quién-puede-leer-mis-mensajes)
+- [10. ¿Y MQTT? ¿Necesito internet?](#10-y-mqtt-necesito-internet)
+- [11. Ya tengo mi nodo, ¿Y ahora?](#11-ya-tengo-mi-nodo-y-ahora)
+- [Recursos adicionales](#recursos-adicionales)
+---
 ### 1.  ¿QUÉ ES MESHTASTIC Y QUÉ NECESITO PARA ARRANCAR?
 
 Es un proyecto de código abierto para armar redes en malla con radios LoRa. Mandás mensajes de texto, posición y telemetría de nodo en nodo, sin internet, sin celular y sin antenas de telefonía. Cada nodo puede retransmitir los mensajes de otros, así que cada uno que se suma agranda la red.
@@ -123,22 +137,31 @@ Una red que no depende de internet sigue funcionando cuando internet se cae.
 
 Tené en cuenta: aunque vos no uses MQTT, un nodo cercano que sí lo use puede subir a internet lo que escucha en el canal por defecto. Otra razón para tratarlo como público.
 
+### 11. YA TENGO MI NODO, ¿Y AHORA?
+
+Seguí este checklist rápido para empezar:
+
+![Checklist_nodo_mesharg](checklist_nodo_mesharg_negro.png)
+
 
 ---
 
-# SUMATE A LA MALLA
+# RECURSOS ADICIONALES
+
+- [Problemas Frecuentes](./Recursos/problemas_frecuentes.md)
+- [FAQ Visual](./FAQ_visual/README.md)
+
+---
+
+# ¡SUMATE A LA MALLA!
+
 
 Dudas, presets y novedades de cada zona en el grupo de Telegram de MeshArg. Hay un hilo para cada provincia:
 https://t.me/meshtastic_argentina
 
-Mapa de nodos del AMBA: mapa-mesh.hopto.org y https://meshseer.nemexix.com/
+### Mapa de nodos del AMBA: https://mapa-mesh.hopto.org y https://meshseer.nemexix.com
+
 Se arman 100% por radio, con un nodo que solo escucha. Para aparecer: compartí tu posición, usá MediumFast y que tu nodo llegue por radio, directo o a través de otros nodos.
-
----
-
-# Recursos adicionales
-
-- [Problemas Frecuentes](./Recursos/problemas_frecuentes.md)
 
 ---
 
